@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # cnn-convolution-engine
 Verilog implementation of a CNN convolution engine featuring a 3×3 Sobel-X filter, four-bank SRAM architecture, address generation, and output-memory management. Verified using Cadence Xcelium.
 =======
@@ -72,4 +71,3 @@ Simulation complete via $finish(1) at time 650485 NS + 0
 - Verilog / SystemVerilog
 - Cadence Xcelium
 - SimVision (for waveform inspection)
->>>>>>> f20a875 (Initial Commit)
