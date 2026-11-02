@@ -1,6 +1,3 @@
-# cnn-convolution-engine
-Verilog implementation of a CNN convolution engine featuring a 3×3 Sobel-X filter, four-bank SRAM architecture, address generation, and output-memory management. Verified using Cadence Xcelium.
-=======
 # CNN Convolution Engine — SystemVerilog
 
 A Verilog/SystemVerilog implementation of a CNN convolution datapath using a four-bank SRAM architecture, address generation, a convolution engine, and output-memory storage.
